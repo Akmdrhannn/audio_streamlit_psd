@@ -1,5 +1,4 @@
-import subprocess
-subprocess.call(['pip', 'install', 'librosa==0.8.1'])
+
 
 import streamlit as st
 import pandas as pd
