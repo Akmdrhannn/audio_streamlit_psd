@@ -1,4 +1,4 @@
-librosa==0.8.1
+librosa
 streamlit==1.15.1
 streamlit-extras==0.2.4
 streamlit-option-menu==0.3.2
