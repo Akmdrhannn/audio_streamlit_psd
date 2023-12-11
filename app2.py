@@ -1,8 +1,3 @@
-import subprocess
-
-# Install dependencies from requirements.txt
-subprocess.call(['pip', 'install', '-r', 'requirements.txt'])
-
 import streamlit as st
 import pandas as pd
 import librosa
